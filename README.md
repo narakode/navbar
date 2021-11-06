@@ -1,3 +1,3 @@
 # navbar
 
-Langkah-langkah pembuatan : [https://www.narakode.com/membuat-navbar-dengan-html-css](Cara Membuat Navbar dengan HTML dan CSS)
+Langkah-langkah pembuatan : [Cara Membuat Navbar dengan HTML dan CSS](https://www.narakode.com/membuat-navbar-dengan-html-css)
